@@ -1,16 +1,45 @@
-# myapp
+# A₹thaगुरू 📱💰  
+**Where Knowledge Meets Wealth**
 
-A new Flutter project.
+*A₹thaगुरू* is a mobile-first application that introduces **financial literacy** in a friendly, interactive way. Designed for beginners, the app combines smart design, gamification, and AI to help users learn essential money skills that matter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 👥 Team Members
 
-A few resources to get you started if this is your first Flutter project:
+- SAI SHIVANI MADDALA 
+- MAYURI MANOJ KUMBHAR
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 📘 **Simple Learning Modules**  
+  Learn core finance topics like budgeting, saving, and investing through concise, beginner-friendly lessons.
+
+- 🎯 **Gamified Progress Tracking**  
+  Earn badges and level up as you complete tasks and challenges.
+
+- 🤖 **AI Assistant – Finny the Fox**  
+  Ask questions and get real-time finance help from Finny, powered by Gemini API.
+
+- 🗣 **Community Interaction**  
+  Share tips, ask doubts, and grow together in a safe learning space.
+
+---
+
+## 🛠 Built With
+
+- **Flutter** & **Dart** – Cross-platform app development  
+- **Gemini API** – AI chatbot integration  
+- **Google IDX** – Cloud-based development
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Mayuri-Kumbhar01/your-repo-name.git
+cd your-repo-name
+flutter pub get
+flutter run
