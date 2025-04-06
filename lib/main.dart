@@ -22,4 +22,4 @@ class ArthGuruApp extends StatelessWidget {
       home: SplashScreen(),
     );
   }
-}
+}git commit -m "Initial commit from Google IDX"
